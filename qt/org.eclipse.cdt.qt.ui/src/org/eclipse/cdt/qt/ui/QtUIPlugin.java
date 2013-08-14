@@ -14,6 +14,7 @@ public class QtUIPlugin extends AbstractUIPlugin {
 	// The shared instance
 	private static QtUIPlugin plugin;
 	
+	
 	/**
 	 * The constructor
 	 */
